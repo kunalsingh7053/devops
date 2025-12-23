@@ -1,5 +1,8 @@
-.env
+
+xyz
+dd
 # EC2 / AWS private keys
 hallex-test-1.pem
 hallex-test-1-key.pem
 *.pem
+
